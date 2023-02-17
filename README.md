@@ -1,6 +1,3 @@
-[![Showcase]
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://www.youtube.com/watch?v=Hc79sDi3f0U "Showcase") 
 # This is mainly about the products slider component,...
 but there's also a heroBanner one above so it is not so lonely lol, Products slider is a component I developed because there are to my knowledge not really actually good looking products components for ecommerce, especially not with tailwind which to me seems like the right way to move forward in frontend. Few animations are coded with custom scss, but most of the UI is done with tailwind. I made it a slider only on lg: size which is 1024px, basically desktop one, on smaller size (phone and tablet) the products are stacked below each other, which from my opinion looks really good on the phone. Also sanity is used so products can be dynamically added.
 <br/>
